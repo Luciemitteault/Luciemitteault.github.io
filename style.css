@@ -1,0 +1,53 @@
+h1{
+	color: white; 
+	background-color: grey; 
+	font-family: 'Roboto', sans-serif;
+}
+h2{
+	color: black; 
+	font-family: 'Source Sans Pro', sans-serif;
+}
+body{
+background-color: blue;
+/*text-align: center;*/
+
+}
+
+#avatar {width: 250px;
+box-shadow: 1px 1px 12px; 
+
+}
+
+.network{width: 50px;}
+
+.red-border {
+	border:solid 2px red;
+}
+
+.cadre {
+background-color: white; 
+padding: 30px; 
+margin: 50px;
+margin-left: 100px; 
+margin-right:100px;
+border: solid 2px blue;
+border-radius: 10px;  
+}
+
+.yellow {
+background-color:yellow;
+width: 200px;
+height:200px;
+display: flex;
+justify-content: center;}
+
+.blue {
+background-color:blue;
+width: 100px;
+height: 100px; 
+}
+
+.orange{
+	background-color:orange;
+width: 100px;
+height:100px;}
